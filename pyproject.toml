@@ -21,6 +21,7 @@ dependencies = [
     "scikit-learn",
     "tabm",
     "torch",
+    "xgboost>=3.2.0",
 ]
 
 [tool.uv.sources]
